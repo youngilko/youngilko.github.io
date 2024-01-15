@@ -20,25 +20,16 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
+      value: youngil.ko@kaist.ac.kr
+      link: mailto:youngil.ko@kaist.ac.kr
+    - name: Personal Email
       value: youngil.ko17@gmail.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+      link: mailto:youngil.ko17@gmail.com
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
     - name: LinkedIn
       link: http://linkedin.com/in/youngilko
     - name: GitHub
       link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
 
 # Build settings
 markdown: kramdown
