@@ -13,23 +13,21 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-    - name: Blog
+    - name: Publications
+    - name: CV
 
 footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: youngil.ko@kaist.ac.kr
-      link: mailto:youngil.ko@kaist.ac.kr
-    - name: Personal Email
       value: youngil.ko17@gmail.com
       link: mailto:youngil.ko17@gmail.com
+
   follow:
     - name: LinkedIn
       link: http://linkedin.com/in/youngilko
-    - name: GitHub
-      link: http://github.com/YourGitHubUsername
+    - name: GoogleScholar
+      link: https://scholar.google.com/citations?user=OTSlFr4AAAAJ&hl=en
 
 # Build settings
 markdown: kramdown
