@@ -8,7 +8,7 @@ slug: /publications
 <div class="pub-container">
     <div class="pub-contents">
         <a id="blue-bg" class="pub-title" href="https://doi.org/10.1016/j.actaastro.2023.07.043">Parametric study on the flight envelope of a radio-frequency ion thruster based atmosphere-breathing electric propulsion system</a> <br/>
-        <b class="pub-me">Youngil Ko</b>, <a class="collaborator">Sangwon Kim</a>, <a class="collaborator">Geonwoong Moon</a>, <a class="collaborator">Minwoo Yi</a>, <a class="collaborator">Kangmin Park</a>, <a class="collaborator">Younho Kim</a>, <a class="collaborator">Eunji Jun</a> <br>
+        <b class="pub-me">Youngil Ko</b>, Sangwon Kim, <a class="collaborator">Geonwoong Moon</a>, Minwoo Yi, Kangmin Park, Younho Kim, <a class="collaborator">Eunji Jun</a> <br>
         <span class="pub-venue"> Acta Astronautica </span>
     </div>
 </div>
