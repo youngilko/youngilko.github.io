@@ -20,7 +20,7 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
+      value: youngil.ko17@gmail.com
       link: mailto:yourmail@domain.com
     - name: WeChat
       value: YourWeChatUsername
@@ -32,7 +32,7 @@ footer:
     - name: Facebook
       link: http://facebook.com/YourFacebookUsername
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: http://linkedin.com/in/youngilko
     - name: GitHub
       link: http://github.com/YourGitHubUsername
     - name: Dribbble
