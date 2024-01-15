@@ -162,3 +162,13 @@
 .page-heading {
   font-size: 20px;
 }
+
+.collaborator {
+  color: $grey-color-dark;
+}
+
+.collaborator:hover {
+  color: $grey-color-dark;
+  text-decoration: wavy underline purple;
+  background-color: transparent;
+}
