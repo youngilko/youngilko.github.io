@@ -18,7 +18,7 @@ slug: /publications
 
 
 <div style="height: 20px"></div>
-
+<!---
 <h2>Conference</h2>
 <div class="pub-container">
     <div class="pub-contents">
@@ -27,8 +27,12 @@ slug: /publications
         <span class="pub-journal">The Korean Society for Aeronautical & Space Sciences KSAS (Yeosu, Republic of Korea, Jun 2023) </span>
     </div>
 </div>
+-->
 
 <div class="pub-container">
+    <div class="pub-teaser-image">
+            <img class="img-shadow" src="./assets/img/teaser/AJCPP-teaser.jpg"/>
+    </div>
     <div class="pub-contents">
         <a id="blue-bg" class="pub-title" href="https://drive.google.com/file/d/1dcTrSRodEYliaUBQuzmWqq9kVE6K1zoe/view">Conceptual System Analysis of Very-Low-Earth-Orbit Satellites with Atmosphere-Breathing Electric Propulsion</a> <br/>
         <a class="collaborator" href="https://scholar.google.com/citations?user=YDnD0o8AAAAJ&hl=en&oi=ao">Eunji Jun</a>, <a class="collaborator" href="https://scholar.google.com/citations?user=2Q0odFEAAAAJ&hl=en&oi=ao">Geonwoong Moon</a>, <b class="pub-me">Youngil Ko</b>, Sangwon Kim <br>
@@ -44,6 +48,7 @@ slug: /publications
     </div>
 </div>
 
+<!---
 <div class="pub-container">
     <div class="pub-contents">
         <a id="blue-bg" class="pub-title" href="https://drive.google.com/file/d/1n_MhPnNev-CmyQMu5qBY8IuGJmg0P2mw/view">Drag Compensation Feasibility of an Atmosphere-Breathing Electric Propulsion System</a> <br/>
@@ -51,3 +56,4 @@ slug: /publications
         <span class="pub-journal">The Korean Society of Propulsion Engineers KSPE (Busan, Republic of Korea, Nov 2022) </span>
     </div>
 </div>
+-->
