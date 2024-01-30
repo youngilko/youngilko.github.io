@@ -19,7 +19,7 @@ slug: /publications
 
 <div style="height: 20px"></div>
 <h2>Conference</h2>
-<!---
+
 <div class="pub-container">
     <div class="pub-contents">
         <a id="blue-bg" class="pub-title" href="https://drive.google.com/file/d/1zdSj-06rI9eXchffRc4_c-HalyfeAHZy/view">Conceptual system analysis of atmosphere-breathing electric propulsion for very-low-Earth-orbit operation</a> <br/>
@@ -27,7 +27,6 @@ slug: /publications
         <span class="pub-journal">The Korean Society for Aeronautical & Space Sciences KSAS (Yeosu, Republic of Korea, Jun 2023) </span>
     </div>
 </div>
--->
 
 <div class="pub-container">
     <div class="pub-teaser-image">
@@ -48,7 +47,7 @@ slug: /publications
     </div>
 </div>
 
-<!---
+
 <div class="pub-container">
     <div class="pub-contents">
         <a id="blue-bg" class="pub-title" href="https://drive.google.com/file/d/1n_MhPnNev-CmyQMu5qBY8IuGJmg0P2mw/view">Drag Compensation Feasibility of an Atmosphere-Breathing Electric Propulsion System</a> <br/>
@@ -56,4 +55,4 @@ slug: /publications
         <span class="pub-journal">The Korean Society of Propulsion Engineers KSPE (Busan, Republic of Korea, Nov 2022) </span>
     </div>
 </div>
--->
+
