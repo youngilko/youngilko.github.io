@@ -18,5 +18,5 @@ profile_picture:
 </p>
 
 <p>
-  <b I am a Ph.D applicant for Fall 2025! b>.
+  <b> I am a Ph.D applicant for Fall 2025!</b>
 </p>
