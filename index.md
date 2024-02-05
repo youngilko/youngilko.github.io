@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Hello! My name is Youngil (Steve) Ko. I am a M.S student at the <a href="https://kngpdl.kaist.ac.kr/">KAIST Non-equilibrium Gas and Plasma Dynamics Lab</a>, led by Professor Eunji Jun.
+  Welcome! My name is Youngil (Steve) Ko. I am a M.S student at the <a href="https://kngpdl.kaist.ac.kr/">KAIST Non-equilibrium Gas and Plasma Dynamics Lab</a>, led by Professor Eunji Jun.
 </p>
 
 <p>
