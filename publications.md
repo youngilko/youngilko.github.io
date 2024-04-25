@@ -21,6 +21,9 @@ slug: /publications
 <h2>Conference</h2>
 
 <div class="pub-container">
+    <div class="pub-teaser-image">
+            <img class="img-shadow" src="./assets/img/teaser/HiSST-teaser.png"/>
+    </div>
     <div class="pub-contents">
         <a id="blue-bg" class="pub-title" href="https://drive.google.com/file/d/1UETzeO1E-pleC8hUkGm9YfVvkFIua7ci/view?usp=drive_link">Surface Catalytic Effect on Chemical Heat Flux using Direct Simulation Monte Carlo</a> <br/>
         <b class="pub-me">Youngil Ko</b>, <a class="collaborator" href="https://scholar.google.com/citations?user=YDnD0o8AAAAJ&hl=en&oi=ao">Eunji Jun</a> <br>
