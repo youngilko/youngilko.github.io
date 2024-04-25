@@ -22,6 +22,15 @@ slug: /publications
 
 <div class="pub-container">
     <div class="pub-contents">
+        <a id="blue-bg" class="pub-title" href="https://drive.google.com/file/d/1UETzeO1E-pleC8hUkGm9YfVvkFIua7ci/view?usp=drive_link">Surface Catalytic Effect on Chemical Heat Flux using Direct Simulation Monte Carlo</a> <br/>
+        <b class="pub-me">Youngil Ko</b>, <a class="collaborator" href="https://scholar.google.com/citations?user=YDnD0o8AAAAJ&hl=en&oi=ao">Eunji Jun</a> <br>
+        <span class="pub-journal">The 3rd International Conference on High-Speed Vehicle Science and Technology (Busan, Republic of Korea, Apr 2024) </span>
+    </div>
+</div>
+
+
+<div class="pub-container">
+    <div class="pub-contents">
         <a id="blue-bg" class="pub-title" href="https://drive.google.com/file/d/1zdSj-06rI9eXchffRc4_c-HalyfeAHZy/view">Conceptual system analysis of atmosphere-breathing electric propulsion for very-low-Earth-orbit operation</a> <br/>
         <a class="collaborator" href="https://scholar.google.com/citations?user=2Q0odFEAAAAJ&hl=en&oi=ao">Geonwoong Moon</a>, <b class="pub-me">Youngil Ko</b>, Sangwon Kim, Minwoo Yi, Younho Kim, <a class="collaborator" href="https://scholar.google.com/citations?user=YDnD0o8AAAAJ&hl=en&oi=ao">Eunji Jun</a> <br>
         <span class="pub-journal">The Korean Society for Aeronautical & Space Sciences KSAS (Yeosu, Republic of Korea, Jun 2023) </span>
