@@ -22,6 +22,33 @@ slug: /publications
 
 <div class="pub-container">
     <div class="pub-teaser-image">
+            <img class="img-shadow" src="./assets/img/teaser/RGD33-teaser.png"/>
+    </div>
+    <div class="pub-contents">
+        <a id="blue-bg" class="pub-title" >Reaction mechanism-specific chemical energy accommodation in Direct Simulation Monte Carlo</a> <br/>
+        <b class="pub-me">Youngil Ko</b>, <a class="collaborator" href="https://scholar.google.com/citations?user=YDnD0o8AAAAJ&hl=en&oi=ao">Eunji Jun</a> <br>
+        <span class="pub-journal">33rd International Symposium on Rarefied Gas Dynamics (Göttingen, Germany, Jul 2024) </span>
+    </div>
+</div>
+
+<div class="pub-container">
+    <div class="pub-contents">
+        <a id="blue-bg" class="pub-title" >Feasibility Analysis of a Cryogenic Active Intake Device for Atmosphere-Breathing Electric Propulsion</a> <br/>
+        <a class="collaborator" href="https://scholar.google.com/citations?user=2Q0odFEAAAAJ&hl=en&oi=ao">Geonwoong Moon</a>, <b class="pub-me">Youngil Ko</b>, <a class="collaborator" href="https://scholar.google.com/citations?user=YDnD0o8AAAAJ&hl=en&oi=ao">Eunji Jun</a> <br>
+        <span class="pub-journal">33rd International Symposium on Rarefied Gas Dynamics (Göttingen, Germany, Jul 2024) </span>
+    </div>
+</div>
+
+<div class="pub-container">
+    <div class="pub-contents">
+        <a id="blue-bg" class="pub-title" href="https://drive.google.com/file/d/15nOzrCSKlPD0lqTYVGwnDoXWq9h2gea_/view">Surface Reaction Chemical Energy Accommodation Model for Re-entry Flows</a> <br/>
+        <b class="pub-me">Youngil Ko</b>, <a class="collaborator" href="https://scholar.google.com/citations?user=YDnD0o8AAAAJ&hl=en&oi=ao">Eunji Jun</a> <br>
+        <span class="pub-journal">The Korean Society for Aeronautical & Space Sciences KSAS (Changwon, Republic of Korea, Jun 2024) </span>
+    </div>
+</div>
+
+<div class="pub-container">
+    <div class="pub-teaser-image">
             <img class="img-shadow" src="./assets/img/teaser/HiSST-teaser.png"/>
     </div>
     <div class="pub-contents">
