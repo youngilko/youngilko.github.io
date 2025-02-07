@@ -184,50 +184,39 @@
   }
 }
 
-@media screen and (max-width: 680px) {
-  .pub-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 12px;
-    margin-bottom: 20px;
-    // width: 80vw;
-    .pub-teaser-image {
-      margin: 0 20px 6px;
-      min-width: 180px;
-      max-width: 300px;
-      width: 100%;
-      height: auto;
-    }
-    .pub-contents {
-      width: 100%;
-      margin: 0 24px;
-      color: variables.$color-grey-dark;
-    }
+.pub-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 20px;
+  // width: 80vw;
+  .pub-teaser-image {
+    margin: 0 20px 6px;
+    min-width: 180px;
+    max-width: 300px;
+    width: 100%;
+    height: auto;
   }
-}
+  .pub-contents {
+    width: 100%;
+    margin: 0 24px;
+    color: variables.$color-grey-dark;
+  }
 
-@media screen and (min-width: 680px) {
-  .pub-container {
+  @include mixins.media-query(variables.$on-mobile) {
     // border: solid blue 1px;
-    display:flex;
-    align-items:center;
     margin: 0 0 15px 0;
     .pub-teaser-image {
-      min-width:180px;
       max-width:180px;
       padding:5px 15px 5px 0;
     }
     .pub-contents {
-      width: 100%;
-      // width: auto;
       margin: 0px;
-      color: variables.$color-grey-dark;
     }
   }
 }
-
 
 .pub-journal {
   color:variables.$color-grey-dark;
