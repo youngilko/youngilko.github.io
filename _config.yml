@@ -1,10 +1,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
-description: Bay is a minimal Jekyll Theme.
-baseurl: "/youngilko"
-url: "https://youngilko.github.io/"
+title: Youngil Ko
+description: >- # this means to ignore newlines until "baseurl:"
+  Youngil Ko's Website
+baseurl: "" # the subpath of the site
+url: "https://youngilko.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
@@ -12,38 +13,22 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-    - name: Blog
+    - name: Publications
+    - name: CV
+      slug: /assets/pdf/CV_YoungilKo.pdf
 
 footer:
   show_powered_by: true
   contact:
-    - type: email
-      name: Email
-      value: youngil.ko17@domain.com
-    - type: wechat
-      value: YourWeChatUsername
-      link: "#"
+    - name: Email
+      value: youngil.ko@kaist.ac.kr
+      link: mailto:youngil.ko@kaist.ac.kr
+
   follow:
-    - type: twitter
-      name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - type: facebook
-      name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - type: linkedin
-      name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
-    - type: github
-      name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - type: dribbble
-      name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - type: rss
-      name: RSS
-      link: /feed.xml
+    - name: LinkedIn
+      link: http://linkedin.com/in/youngilko
+    - name: GoogleScholar
+      link: https://scholar.google.com/citations?user=OTSlFr4AAAAJ&hl=en
 
 # Build settings
 markdown: kramdown

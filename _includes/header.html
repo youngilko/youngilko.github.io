@@ -1,7 +1,8 @@
 <header class="site-header">
   <div class="wrapper">
     <a class="site-title" href="{{ "" | prepend: site.baseurl | prepend: site.url }}/">
-      <img src="{{ "/assets/img/title.png" | absolute_url }}" alt="{{ site.title }}" />
+      <div style="font-family:'Futura', sans-serif"><b>Youngil Ko</b> </div>
+      <!--<img style="box-shadow: 0 !important" src="{{ "/assets/img/title_3.png" | absolute_url }}" alt="{{ site.title }}" />-->
     </a>
 
     <nav class="site-nav">
@@ -16,7 +17,7 @@
           {% endif %}
           {% assign page_link = page_link | absolute_url %}
           <a class="page-link" href="{{ page_link }}">
-            {{- page.name -}}
+            {{ page.name }}
           </a>
         {% endfor %}
       </div>
