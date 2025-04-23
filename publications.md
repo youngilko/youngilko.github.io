@@ -7,6 +7,18 @@ slug: /publications
 <h2>Journal</h2>
 <div class="pub-container">
     <div class="pub-teaser-image">
+            <img class="img-shadow" src="./assets/img/teaser/journal3-teaser.png"/>
+    </div>
+    <div class="pub-contents">
+        <a id="blue-bg" class="pub-title" href="https://arxiv.org/abs/2504.15842">Radiative equilibrium boundary condition and correlation analysis on catalytic surfaces in DSMC</a> <br/>
+        <b class="pub-me">Youngil Ko</b>, <a class="collaborator" href="https://scholar.google.com/citations?user=YDnD0o8AAAAJ&hl=en&oi=ao">Eunji Jun</a> <br>
+        <span class="pub-journal"> International Journal of Heat and Mass Transfer [Under Review] </span>
+    </div>
+</div>
+
+
+<div class="pub-container">
+    <div class="pub-teaser-image">
             <img class="img-shadow" src="./assets/img/teaser/journal2-teaser.png"/>
     </div>
     <div class="pub-contents">
