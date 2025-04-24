@@ -43,6 +43,33 @@ slug: /publications
 <h2>Conference</h2>
 
 <div class="pub-container">
+    <div class="pub-contents">
+        <a id="blue-bg" class="pub-title" href="https://drive.google.com/file/d/1KgkpswmItraiTXAfle-gTAIj2AGlZaOI/view">Validation of Air-Carbon Ablation Model of Carbon-based Ablation TPS using DSMC</a> <br/> Suyeon Ma
+        <b class="pub-me">Youngil Ko</b>, <a class="collaborator" href="https://scholar.google.com/citations?user=YDnD0o8AAAAJ&hl=en&oi=ao">Eunji Jun</a> <br>
+        <span class="pub-journal">The Korean Society for Aeronautical & Space Sciences KSAS (Jeju, Republic of Korea, Apr 2025) </span>
+    </div>
+</div>
+
+
+<div class="pub-container">
+    <div class="pub-contents">
+        <a id="blue-bg" class="pub-title" href="https://drive.google.com/file/d/16nMqZxJsNbHc7M8vQ0Udd_Yw9HlllLdj/view">Re-entry Flow Analysis Considering Surface Reaction and Radiation Equilibrium</a> <br/>
+        <b class="pub-me">Youngil Ko</b>, <a class="collaborator" href="https://scholar.google.com/citations?user=YDnD0o8AAAAJ&hl=en&oi=ao">Eunji Jun</a> <br>
+        <span class="pub-journal">The Korean Society for Aeronautical & Space Sciences KSAS (Jeju, Republic of Korea, Apr 2025) </span>
+    </div>
+</div>
+
+
+<div class="pub-container">
+    <div class="pub-contents">
+        <a id="blue-bg" class="pub-title" href="https://drive.google.com/file/d/1771oCDEi2zhDovRoQP2N7E7ZVzIccPeZ/view">Numerical Analysis of the Operational Concept of a Cryogenic Active Intake Device for Atmosphere-Breathing Electric Propulsion</a> <br/>
+        <a class="collaborator" href="https://scholar.google.com/citations?user=2Q0odFEAAAAJ&hl=en&oi=ao">Geonwoong Moon</a>, <b class="pub-me">Youngil Ko</b>, <a class="collaborator" href="https://scholar.google.com/citations?user=YDnD0o8AAAAJ&hl=en&oi=ao">Eunji Jun</a> <br>
+        <span class="pub-journal">The Korean Society of Propulsion Engineers KSPE (Busan, Republic of Korea, Nov 2024) </span>
+    </div>
+</div>
+
+
+<div class="pub-container">
     <div class="pub-teaser-image">
             <img class="img-shadow" src="./assets/img/teaser/RGD33-teaser.png"/>
     </div>
