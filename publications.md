@@ -16,6 +16,14 @@ slug: /publications
     </div>
 </div>
 
+<div class="pub-container">
+    <div class="pub-contents">
+        <a id="blue-bg" class="pub-title" href="https://arxiv.org/abs/2503.02021">Operational Feasibility Analysis of a Cryogenic Active Intake Device for Atmosphere-Breathing Electric Propulsion</a> <br/>
+        <a class="collaborator" href="https://scholar.google.com/citations?user=2Q0odFEAAAAJ&hl=en&oi=ao">Geonwoong Moon</a>, <b class="pub-me">Youngil Ko</b>, Minwoo Yi, <a class="collaborator" href="https://scholar.google.com/citations?user=YDnD0o8AAAAJ&hl=en&oi=ao">Eunji Jun</a> <br>
+        <span class="pub-journal"> Aerospace Science and Technology [Under Review] </span>
+    </div>
+</div>
+
 
 <div class="pub-container">
     <div class="pub-teaser-image">
