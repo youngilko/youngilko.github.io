@@ -52,7 +52,7 @@ slug: /publications
 
 <div class="pub-container">
     <div class="pub-contents">
-        <a id="blue-bg" class="pub-title" href="">Advanced Gas-Surface Interaction Model Considering Atomic Oxygen in Very Low Earth Orbit</a> <br/> <b class="pub-me">Youngil Ko</b>, <a class="collaborator" href="https://scholar.google.com/citations?user=2Q0odFEAAAAJ&hl=en&oi=ao">Geonwoong Moon</a>, <a class="collaborator" href="https://scholar.google.com/citations?user=YDnD0o8AAAAJ&hl=en&oi=ao">Eunji Jun</a> <br>
+        <a id="blue-bg" class="pub-title" href="">Effect of Surface Recombination Reaction on Performance of Intake Device</a> <br/> <b class="pub-me">Youngil Ko</b>, <a class="collaborator" href="https://scholar.google.com/citations?user=2Q0odFEAAAAJ&hl=en&oi=ao">Geonwoong Moon</a>, <a class="collaborator" href="https://scholar.google.com/citations?user=YDnD0o8AAAAJ&hl=en&oi=ao">Eunji Jun</a> <br>
         <span class="pub-journal">The Korean Society for Aeronautical & Space Sciences KSAS (Yeosu, Korea, Jun 2025) </span>
     </div>
 </div>
