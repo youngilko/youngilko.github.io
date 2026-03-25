@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.25)  25 MAR 2026 01:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.25)  25 MAR 2026 02:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -391,8 +391,15 @@ ards.tex) (./src/mentoring.tex) [3] (./resume.aux
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: D0D73B67109749B2694F2B0E1A26FA17;754.
+
+
+Package rerunfilecheck Warning: File `resume.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `resume.out':
+(rerunfilecheck)             Before: D0D73B67109749B2694F2B0E1A26FA17;754
+(rerunfilecheck)             After:  C8892A5CA3E9664AE2478E856CCCBBA0;747.
  ) 
 Here is how much of TeX's memory you used:
  13877 strings out of 474116
@@ -408,7 +415,7 @@ ts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmsy6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a
 .pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr
 /local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on resume.pdf (3 pages, 86807 bytes).
+Output written on resume.pdf (3 pages, 86635 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream
