@@ -8,7 +8,7 @@ slug: /publications
 
 <div class="pub-container">
 <div class="pub-contents">
-<p>Moon, G., <b>Ko, Y.</b>, Yi, M., & Jun, E. (n.d.). <i><a href="https://arxiv.org/abs/2503.02021">Operational feasibility analysis of a cryogenic active intake device for atmosphere-breathing electric propulsion</a></i>. Manuscript submitted for publication.</p>
+<p>Moon, G., <b>Ko, Y.</b>, Yi, M., & Jun, E. (2026). <a href="https://doi.org/10.1016/j.ast.2026.112138">Operational feasibility analysis of a cryogenic active intake device for atmosphere-breathing electric propulsion</a>. <i>Aerospace Science and Technology</i>, 112138.</p>
 </div>
 </div>
 
